@@ -1,4 +1,4 @@
 # CSS Art
 
-[ ] for an empty checkbox
-[x] for an empty checkbox
+- [ ] for an empty checkbox
+- [x] for an empty checkbox
