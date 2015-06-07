@@ -1,2 +1,4 @@
 # CSS Art
-Creating art with css
+
+[ ] for an empty checkbox
+[x] for an empty checkbox
